@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Twitter: swom_movie](https://img.shields.io/twitter/follow/swom_movie?style=social)](https://twitter.com/swon_movie)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=endoftheyukky&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endoftheyukky&theme=vue)
  
